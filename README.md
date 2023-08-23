@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-![](https://github-readme-stats.vercel.app/api?username=zjcanjux)
 
 
 Here are some ideas to get you started:
